@@ -1,0 +1,45 @@
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 15 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 50 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\ELCOT\AppData\Local\Temp\testng-eclipse-315061372\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 42 ms.
+Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+Exporting webdriver.chrome.driver as C:\Users\ELCOT\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+Registartion button clicked
+Matching Password Successfully entered
+registartion completed
+[TestNG] Time taken by org.testng.reporters.jq.Main@4d21c56e: 266 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@726aa968: 1 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@2b680207: 14 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@588f63c: 11 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@784abd3e: 10 ms
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@36c2b646: 0 ms

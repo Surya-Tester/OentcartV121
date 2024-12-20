@@ -1,0 +1,44 @@
+12:53:43.353 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.9.2
+12:53:45.442 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=131 in cache (valid until 13:44:13 17/12/2024 IST)
+12:53:45.447 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome131=131.0.6778.108 in cache (valid until 19:56:07 17/12/2024 IST)
+12:53:45.449 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+12:53:45.515 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 131.0.6778.108 found in cache
+12:53:45.519 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ELCOT\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+12:54:03.481 [main] INFO  testcases.TC01_AccountRegistration - Registartion button clicked
+12:54:05.526 [main] INFO  testcases.TC01_AccountRegistration - Matching Password Successfully entered
+12:54:06.310 [main] INFO  testcases.TC01_AccountRegistration - registartion completed
+12:55:46.623 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\eclipse\Appium folder\opencardV121\master.xml"
+12:55:47.409 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\eclipse\Appium folder\opencardV121\master.xml
+
+12:55:47.610 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.9.2
+12:55:49.585 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=131 in cache (valid until 13:44:13 17/12/2024 IST)
+12:55:49.591 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome131=131.0.6778.108 in cache (valid until 19:56:07 17/12/2024 IST)
+12:55:49.592 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+12:55:49.671 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 131.0.6778.108 found in cache
+12:55:49.675 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ELCOT\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+12:56:06.786 [main] INFO  testcases.TC01_AccountRegistration - Registartion button clicked
+12:56:08.974 [main] INFO  testcases.TC01_AccountRegistration - Matching Password Successfully entered
+12:56:10.470 [main] INFO  testcases.TC01_AccountRegistration - registartion completed
+13:11:56.983 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ELCOT\AppData\Local\Temp\testng-eclipse--284549048\testng-customsuite.xml"
+13:11:57.631 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:11:57.637 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+13:11:57.641 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:11:57.641 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:11:57.643 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:11:57.644 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:11:57.646 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:11:57.646 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:11:57.666 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms.
+13:11:57.691 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 25 ms.
+13:11:57.696 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:11:57.697 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+13:11:57.701 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:11:57.701 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:11:57.703 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:11:57.703 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:11:57.714 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:11:57.715 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:11:57.716 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:11:57.717 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:11:57.724 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
